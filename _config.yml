@@ -7,7 +7,7 @@ highlighter:         pygments
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 relative_permalinks: true
-
+comments:True
 # Setup
 title:               GeekPradd
 tagline:             'The Blog of Web developer Pradipta'
@@ -18,9 +18,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Pradipta Bora
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             pradd@outlook.com
 
 # Custom vars
 version:             1.0.0
