@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to My Humble Blog
+comments:True
 ---
 
 Welcome to the GeekPradd Blog powered by Jekyll and GitHub Pages. I'll try to be good and humble here as I open new doors to the wonderful world of Geekism to you.
