@@ -1,13 +1,13 @@
 ---
 layout:post
-title: SourceSharer Plugin for Sublime Text 3
+title: Sourcesharer sublime text 3 plugin
 ---
 
 [SourceSharer](http://www.sourcesharer.hol.es) as you know is a site created by me and Akshat to help in sharing Source Code with your friends and others all around the world. We provide a direct link based sharing system to allow code access to only those that have your shared link and we also provide embed features to directly share your SourceSharer code on your website.
 
 But, I realised that creating SourceSharer Shared Code's requires one to copy code, open SourceSharer, enter code, copy link and then share it with your friends on various networks. It's a long proccess and for some other sharing sites, it's even worse. So, how can I reduce these steps?. Well if the code editor used had a plugin to cut 3 steps and directly copy the link to your clipboard, it would be fantastic. Now, I use Sublime Text 3 for development (I'm writing this post on it) and creating Sublime Text Plugins is very easy as it uses Python, my favorite language. So I decided to create a plugin for it..
 
-
+![sublime](/images/sublime.jpg "Sublime Text 3 with my plugin")
 
 So how does this plugin work?
 
