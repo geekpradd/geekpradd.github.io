@@ -4,27 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  This is a Blog created by GeekPradd aka Pradipta Bora who is a Python, Web and Android Developer from India and loves coding and thinking
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This Blog mainly caters to provide me a platform to think and communicate my thoughts with you. That aside, Articles which are common to many many of my services are also posted here.
 
-There are currently two themes built on Poole:
+Now, I am mostly a Python and Web Developer with the occasional Android development (I hate *Java*!) and most of my projects are meant to solve real world problems. Some of them are [SourceSharer](http://www.sourcesharer.holes) which helps in sharing program code, [DynamicPython (Under Development)](http://www.dynamicpython.hol.es) which aims to simplify Python learning, [Notepad By Pradd]( http://geekpradd.github.io/Notepad-By-Pradd-/) which is a simple and concise Python based text editor. You can check out my [Profile](https://github.com/geekpradd/) on GitHub to get links to more of my Open Source Projects
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## What I like
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Well, In my free non coding time, I like reading books, be it related to Theoterical Physics or Mystery novels. And I really like watching Movies and TV Shows with *The Originals* and *Breaking Bad* being my favorite. Besides that, I study a lot as I aspire to crack IIT JEE which is one of the toughest entrance exams in the world.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks for reading and stay tuned for my articles!
