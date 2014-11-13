@@ -30,4 +30,7 @@ Usage is very simple, to share the code of your current working file, simply cli
 After doing so, a output panel will open up at the bottom (This may take time if you have  very slow Internet) and the SourceSharer link will be automatically copied to the Clipboard. You can now share this with your friends effortlessly!.
 
 [Source On GitHub](https://github.com/geekpradd/sublime-sourcesharer-plugin)
-Sublime Text 3 SourceSharer Plugin created by Pradd. SourceSharer created by Akshat and Pradd.
+
+Sublime Text 3 SourceSharer Plugin created by Pradd.
+
+ SourceSharer created by Akshat and Pradd.
