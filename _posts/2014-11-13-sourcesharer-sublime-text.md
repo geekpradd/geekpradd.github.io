@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using SourceSharer to directly share Source Code from Sublime Text
-comments:true
+comments:True
 ---
 
 [SourceSharer](http://www.sourcesharer.hol.es) as you know is a site created by me and Akshat to help in sharing Source Code with your friends and others all around the world. We provide a direct link based sharing system to allow code access to only those that have your shared link and we also provide embed features to directly share your SourceSharer code on your website.
