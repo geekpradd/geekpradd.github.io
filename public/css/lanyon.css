@@ -35,6 +35,10 @@
  */
 
 /* Prevent scroll on narrow devices */
+.footer{
+  border-top: 1px solid #eee;
+  padding-top:30px;
+}
 html,
 body {
   overflow-x: hidden;
