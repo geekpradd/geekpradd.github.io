@@ -12,7 +12,7 @@ title: Tags
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
      <li><a href="#{{ this_word | cgi_escape }}">{{ this_word }}</a></li>
    {% endunless %}{% endfor %}
-   </ul>
+   </ul><br><br>
     {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
   <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
