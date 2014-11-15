@@ -371,12 +371,15 @@ a.sidebar-nav-item:focus {
 
 /* Meta data line below post title */
 .post-date {
-  display: block;
+  display: inline;
   margin-top: -.5rem;
   margin-bottom: 0rem;
   color: #9a9a9a;
 }
-
+.details{
+  display:block;
+  margin-bottom:1rem;
+}
 /* Related posts */
 .related {
   padding-top: 2rem;
