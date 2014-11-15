@@ -90,6 +90,7 @@ img{
 }
 .tag-box li{
   display:inline;
+  float:left;
 }
 .tag-box a {
     display: block;
