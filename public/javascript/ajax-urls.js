@@ -20,7 +20,7 @@ jQuery(document).ready(function($) {
             // Replace the content of the main container (.content)
             // If you're using another div, you should change the selector
             $('.content').html($(data).find('.content'));
-
+            document.title = $(data).find("title").text();
             // If you're using Google analytics, make sure the pageview is registered!
             _gaq.push(['_trackPageview', State.url]);
         });
