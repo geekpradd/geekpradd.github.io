@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
             $('.loading').css("display","none");
             document.title = $title;
             $('.content').html($(data).find('.content'));
-            $("html, body").animate({ scrollTop: 0 }, "fast")
+            $("html, body").animate({ scrollTop: 0 }, "normal")
             _gaq.push(['_trackPageview', State.url]);
         });
     });
