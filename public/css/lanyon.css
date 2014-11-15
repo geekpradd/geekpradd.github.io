@@ -75,7 +75,10 @@ display:none;
  * use an outter wrap to position the sidebar without interferring with the
  * regular page content.
  */
-
+img{
+  margin-left:auto;
+  margin-right:auto;
+}
 .wrap {
   position: relative;
   width: 100%;
