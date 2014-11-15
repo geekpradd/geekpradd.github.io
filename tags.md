@@ -10,7 +10,7 @@ title: Tags
     <ul class="tag-box inline">
     {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-     <li><a href="#{{ this_word | cgi_escape }}">{{ this_word }}</a></li>
+     <li><a href="#{{ this_word | cgi_escape }}" class="tag-link">{{ this_word }}</a></li>
    {% endunless %}{% endfor %}
    </ul><br><br>
     {% for item in (0..site.tags.size) %}{% unless forloop.last %}
