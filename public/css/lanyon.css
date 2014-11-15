@@ -91,11 +91,12 @@ img{
 .tag-box li{
   display:inline;
   float:left;
+  margin: 3px;
 }
 .tag-box a {
     display: block;
     width: 100%;
-    margin: 3px;
+
     padding: 4px 6px;
     border-radius:4px;
     border:2px solid #eee;
