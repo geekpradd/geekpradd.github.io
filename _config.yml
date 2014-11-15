@@ -11,7 +11,7 @@ relative_permalinks: true
 title:               GeekPradd
 tagline:             'The Blog of Web developer Pradipta'
 description:         'A Blog discussing science, programming and everything geeky'
-url:                 http://geekpradd.github.io
+url:                 http://geekpradd.github.io/
 baseurl:             http://geekpradd.github.io
 paginate:            5
 
