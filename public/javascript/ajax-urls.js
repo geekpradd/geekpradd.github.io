@@ -10,7 +10,9 @@ jQuery(document).ready(function($) {
     History.Adapter.bind(window, 'statechange', function(){
         var State = History.getState();
         $.get(State.url, function(data){
-            document.title = $(data).find("title").text();
+            $title=$(data).find("title").text();
+            console.log($title);
+            document.title = $title;
             $('.content').html($(data).find('.content'));
             _gaq.push(['_trackPageview', State.url]);
         });
