@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
     History.Adapter.bind(window, 'statechange', function(){
         var State = History.getState();
         $.get(State.url, function(data){
-            $title=$(data).find("title");
+            $title=$(data).filter('title').text();
             console.log($title);
             document.title = $title;
             $('.content').html($(data).find('.content'));
