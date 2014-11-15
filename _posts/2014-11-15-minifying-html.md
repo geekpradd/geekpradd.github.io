@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Minifying HTML5 Code From Sublime Text 3
 ---
 
