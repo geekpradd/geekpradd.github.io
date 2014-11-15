@@ -4,6 +4,7 @@ jQuery(document).ready(function($) {
 
     $(document).delegate('a[href^="/"],a[href^="'+siteUrl+'"]', "click", function(e) {
         e.preventDefault();
+        $('.loading').css("display","block");
         History.pushState({}, "", this.pathname);
     });
 
@@ -11,7 +12,8 @@ jQuery(document).ready(function($) {
         var State = History.getState();
         $.get(State.url, function(data){
             $title=$(data).filter('title').text();
-            console.log($title);
+
+            $('.loading').css("display","none");
             document.title = $title;
             $('.content').html($(data).find('.content'));
             _gaq.push(['_trackPageview', State.url]);
