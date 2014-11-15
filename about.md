@@ -15,4 +15,7 @@ Now, I am mostly a Python and Web Developer with the occasional Android developm
 
 Well, In my free non coding time, I like reading books, be it related to Theoterical Physics or Mystery novels. And I really like watching Movies and TV Shows with *The Originals* and *Breaking Bad* being my favorite. Besides that, I study a lot as I aspire to crack IIT JEE which is one of the toughest entrance exams in the world.
 
+##Contact Me
+
+You can reach out to me, and contact me on Quora, GitHub and by email. I'm on Facebook and Twitter as well. I'll try my best to help you solve your problem!
 Thanks for reading and stay tuned for my articles!
