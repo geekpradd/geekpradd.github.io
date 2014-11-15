@@ -3,12 +3,8 @@ layout: page
 title: Tags
 ---
 
-{% capture tags %}
-  {% for tag in site.tags %}
-    {{ tag[0] }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedtags = tags | split:' ' | sort %}
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+ {% assign tag_words = site_tags | split:',' | sort %}
 
 <div id="tags">
    <h1>Tags</h1>
