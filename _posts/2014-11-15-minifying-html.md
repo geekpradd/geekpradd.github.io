@@ -7,7 +7,7 @@ tags:
 - html
 - python
 - plugin
-- sublime text
+- sublime-text
 ---
 
 Nowadays, Websites have become massive in size with lots of content and features. While in the developed world, Internet speeds are very fast and therefore large size of websites doesn't make much difference. However, majority of the world still uses DSL type connections which are very slow. As Web Developers, we should try to reduce the size of our code such that loading speeds for those users become less. It might not seem like a big deal for small sites, but for large websites, it helps a lot.
