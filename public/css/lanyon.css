@@ -110,7 +110,7 @@ display: inline-block;
 text-decoration: none;
 position:relative;
 box-shadow: 0 3px rgba(211, 211, 211, 0.75);
-transition: all 0.1s linear 0s;
+transition: all 0.3s linear 0s;
 }
 .tag-box a {
     display: block;
