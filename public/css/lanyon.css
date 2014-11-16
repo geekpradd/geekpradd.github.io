@@ -101,15 +101,15 @@ img{
 .tags a{
     margin: 4.5px;
 border-radius: 5px;
-background-color: #EFEFEF;
+background-color: #F9F9F9;
     font-size:17px;
     font-family:"PT Sans",sans-serif;
 color: black;
 padding: 4px 6px;
 display: inline-block;
 text-decoration: none;
-
-box-shadow: 0 3px rgba(170, 175, 190, 0.75);
+position:relative;
+box-shadow: 0 3px rgba(211, 211, 211, 0.75);
 transition: all 0.1s linear 0s;
 }
 .tag-box a {
