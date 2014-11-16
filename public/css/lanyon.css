@@ -143,7 +143,14 @@ img{
     max-width: 38rem;
   }
 }
-
+@media (max-width:500px){
+  .tags{
+    display:none;
+  }
+  .tag-box{
+    display:none;
+  }
+}
 
 /*
  * Masthead
