@@ -8,9 +8,8 @@ jQuery(document).ready(function($) {
         $('.loading').css("display","block");
         History.pushState({}, "", this.pathname);
         console.log($(this).attr('data-target'));
-        $('html, body').animate({
-        scrollTop: $("#"+$(this).attr('data-target')).offset().top
-    }, 400);
+        scrollToId($(this).attr('data-target'),this.pathname);
+
     });
     $(document).delegate('a[href^="/"],a[href^="'+siteUrl+'"]', "click", function(e) {
         e.preventDefault();
@@ -34,5 +33,13 @@ jQuery(document).ready(function($) {
             _gaq.push(['_trackPageview', State.url]);
         });
     });
-
+    function scrollToId(id,path){
+        var state=History.getState();
+        while (state.url!=path){
+            var state=History.getState();
+        }
+        $('html, body').animate({
+        scrollTop: $("#"+id).offset().top
+    }, 400);
+    }
 });
