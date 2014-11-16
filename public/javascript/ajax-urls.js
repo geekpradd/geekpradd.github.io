@@ -29,9 +29,10 @@ jQuery(document).ready(function($) {
   reload: true,
   config: function () {
     this.page.identifier = "newidentifier";
-    this.page.url = State.url;
+    this.page.url = document.url;
   }
 });
+            console.log(document.url);
             _gaq.push(['_trackPageview', State.url]);
         });
     });
