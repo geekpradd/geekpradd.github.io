@@ -5,7 +5,9 @@ jQuery(document).ready(function($) {
         window.location=siteUrl+$(this).attr("href");
     });
     $('.tag-link').click(function(){
-        window.location=siteUrl+$(this).attr("href");
+        $('.loading').css("display","block");
+        History.pushState({}, "", this.pathname);
+        $.scrollTo($(this).attr('data-target'),400);
     });
     $(document).delegate('a[href^="/"],a[href^="'+siteUrl+'"]', "click", function(e) {
         e.preventDefault();
