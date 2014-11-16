@@ -23,7 +23,8 @@ jQuery(document).ready(function($) {
 
             $('.loading').css("display","none");
             document.title = $title;
-            $('.content').html($(data).find('.content'));
+            $('.post').html($(data).find('.post'));
+            $('.related').html($(data).find('.related'));
             $("html, body").animate({ scrollTop: 0 }, "normal");
             DISQUS.reset({
   reload: true,
