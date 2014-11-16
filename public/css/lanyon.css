@@ -102,7 +102,8 @@ img{
     padding: 4px 6px;
     margin: 4.5px;
 
-    color:#515151;
+    background-color:#515151;
+    color:white;
     font-size:17px;
     font-family:"PT Serif",sans-serif;
 }
