@@ -101,15 +101,15 @@ img{
 .tags a{
     margin: 4.5px;
 border-radius: 5px;
-background-color: #7D99F5;
+background-color: #EFEFEF;
     font-size:17px;
     font-family:"PT Sans",sans-serif;
-color: white;
+color: black;
 padding: 4px 6px;
 display: inline-block;
 text-decoration: none;
 
-box-shadow: 0 3px rgba(58,87,175,.75);
+box-shadow: 0 3px rgba(170, 175, 190, 0.75);
 transition: all 0.1s linear 0s;
 }
 .tag-box a {
@@ -127,8 +127,10 @@ transition: all 0.1s linear 0s;
   color:#268bd2;
 }
 .tags a:hover{
-  text-decoration:none;
-  color:#268bd2;
+  top: 3px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
 }
 /*
  * Container
