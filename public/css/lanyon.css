@@ -101,10 +101,9 @@ img{
 .tags a{
     margin: 4.5px;
 border-radius: 5px;
-background-color: #3a57af;
+background-color: #7D99F5;
     font-size:17px;
-    font-family:"PT Serif",sans-serif;
-    font-weight: 600;
+    font-family:"PT Sans",sans-serif;
 color: white;
 padding: 4px 6px;
 display: inline-block;
