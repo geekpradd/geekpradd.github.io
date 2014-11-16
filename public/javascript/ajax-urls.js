@@ -24,7 +24,14 @@ jQuery(document).ready(function($) {
             $('.loading').css("display","none");
             document.title = $title;
             $('.content').html($(data).find('.content'));
-            $("html, body").animate({ scrollTop: 0 }, "normal")
+            $("html, body").animate({ scrollTop: 0 }, "normal");
+            DISQUS.reset({
+  reload: true,
+  config: function () {
+    this.page.identifier = "newidentifier";
+    this.page.url = State.url;
+  }
+});
             _gaq.push(['_trackPageview', State.url]);
         });
     });
