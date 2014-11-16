@@ -8,7 +8,7 @@ jQuery(document).ready(function($) {
         $('.loading').css("display","block");
         History.pushState({}, "", this.pathname);
         console.log($(this).attr('data-target'));
-        $.scrollTo($(this).attr('data-target'),400);
+        $.scrollTo('#'+$(this).attr('data-target'),400);
     });
     $(document).delegate('a[href^="/"],a[href^="'+siteUrl+'"]', "click", function(e) {
         e.preventDefault();
