@@ -188,7 +188,7 @@ transition: all 0.3s linear 0s;
   font-weight: 400;
   color: black;
   letter-spacing: 0;
-  padding-left:30px;
+  padding-left:10px;
 }
 
 @media (max-width: 48em) {
