@@ -15,13 +15,13 @@ def hey():
 
 {% endhighlight %}
 
-The sample code to so:
-<pre>
-<code>
-{% highlight python linenos %}
+The sample code to do so:
+{% highlight text %}
+"{% highlight python linenos %}
 def hey():
   print ("Ok!")
 
+{% endhighlight %}"
 {% endhighlight %}
 </code>
 </pre>
