@@ -110,8 +110,8 @@ padding: 4px 6px;
 display: inline-block;
 text-decoration: none;
 position:relative;
-box-shadow: 0 3px rgba(211, 211, 211, 0.75);
-transition: all 0.3s linear 0s;
+
+
 }
 .tag-box a {
     display: block;
@@ -127,12 +127,7 @@ transition: all 0.3s linear 0s;
   text-decoration:none;
   color:#268bd2;
 }
-.tags a:hover{
-  top: 3px;
-  -webkit-box-shadow: none;
-  -moz-box-shadow: none;
-  box-shadow: none;
-}
+
 /*
  * Container
  *
