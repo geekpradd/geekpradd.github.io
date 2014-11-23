@@ -168,12 +168,15 @@ transition: all 0.3s linear 0s;
  *
  * Super small header above the content for site name and short description.
  */
-
+.content{
+  background-color:white !important;
+}
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
+  background-color:white;
 }
 .masthead-title {
   margin-top: 0;
