@@ -17,11 +17,11 @@ def hey():
 
 The sample code to do so:
 {% highlight text %}
-"{% highlight python linenos %}
+{% highlight python linenos %}
 def hey():
   print ("Ok!")
 
-{% endhighlight %}"
+{% endhighlight %}
 {% endhighlight %}
 </code>
 </pre>
