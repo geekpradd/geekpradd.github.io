@@ -35,6 +35,15 @@
  */
 
 /* Prevent scroll on narrow devices */
+.footer-icon{
+  width: 30px;
+height: 30px;
+-webkit-transition: -webkit-transform .2s;
+transition: transform .2s;
+-webkit-backface-visibility: hidden;
+backface-visibility: hidden;
+color:rgba(255,255,255,.6);
+}
 .footer{
   border-top: 1px solid #eee;
   padding-top:30px;
