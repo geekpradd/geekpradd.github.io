@@ -2,6 +2,7 @@
 layout: post
 title: Introducing Notepad By Pradd Version 3.1
 description: Notepad By Pradd just became version 3.1
+permalink: notepad-by-pradd-3-1
 image: /images/notepad.JPG
 tags:
 - python
@@ -26,4 +27,12 @@ Font bugs fixed. Support for future functionality of default editor added. New F
 Bug fixes and minor changes
 
 
-So, now that it has syntax highlighting Notepad By Pradd can be used as a Code Editor. I'll soon be adding a Plugin System and probably Snippets. Stay Tuned!
+So, now that it has syntax highlighting Notepad By Pradd can be used as a Code Editor. I'll soon be adding a Plugin System and probably Snippets.
+
+### Download It
+
+You can download the Setup for Windows from <a href="https://github.com/geekpradd/Notepad-By-Pradd-/releases/download/v3.1.0/Notepad.By.Pradd.Setup.exe"> this link </a>
+
+And here is the <a href="http://geekpradd.github.io/Notepad-By-Pradd-/"> link </a> to the Project Page.
+
+Stay Tuned for more!
