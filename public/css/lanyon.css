@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 p.white{
-  color:rgba(255,255,255,.6);
+  color:rgba(255,255,255,0.9);
 }
 p{
   font-family:"Source Sans Pro";
@@ -238,7 +238,7 @@ position:relative;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #33363B;
+  background-color: #26272B;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
