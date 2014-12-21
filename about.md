@@ -17,5 +17,5 @@ Well, In my free non coding time, I like reading books, be it related to Theoter
 
 ##Contact Me
 
-You can reach out to me, and contact me on Quora, GitHub and by email. I'm on Facebook and Twitter as well. I'll try my best to help you solve your problem!
+You can reach out to me, and contact me on <a href="https://www.quora.com/Pradipta-Bora-1">Quora</a>,<a href="https://github.com/geekpradd"> GitHub </a>and by <a href="mailto:pradd@outlook.com">email</a>. I'm on Facebook and Twitter as well. I'll try my best to help you solve your problem!
 Thanks for reading and stay tuned for my articles!

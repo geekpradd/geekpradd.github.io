@@ -9,7 +9,7 @@ permalink:           pretty
 relative_permalinks: true
 # Setup
 title:               GeekPradd
-tagline:             'The Blog of Web developer Pradipta'
+tagline:             'The Blog of Developer Pradipta'
 description:         'A Blog discussing science, programming and everything geeky'
 url:                 http://geekpradd.github.io/
 baseurl:             http://geekpradd.github.io/
