@@ -1,5 +1,4 @@
-@import url('http://fonts.googleapis.com/css?family=Amarante');
-
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
@@ -26,7 +25,19 @@ body {
   padding-bottom: 55px;
   max-width:100%;
 }
-
+h2{
+  font-family:"Open Sans";
+  font-weight:300;
+  font-size:25px;
+}
+p.text{
+  font-family:"Open Sans";
+  font-weight:300;
+  font-size:16px;
+  line-height:1.5;
+  padding-top:15px;
+  padding-bottom:5px;
+}
 ::selection { background: #5f74a0; color: #fff; }
 ::-moz-selection { background: #5f74a0; color: #fff; }
 ::-webkit-selection { background: #5f74a0; color: #fff; }
@@ -54,15 +65,15 @@ table { border-collapse: collapse; border-spacing: 0; }
 img { border: 0; max-width: 100%; }
 
 h1 {
-  font-family: 'Amarante', Tahoma, sans-serif;
-  font-weight: bold;
+  font-family: 'Open Sans', Tahoma, sans-serif;
+
   font-size: 3.6em;
   line-height: 1.7em;
   margin-bottom: 10px;
   text-align: center;
 }
 h3 {
-  font-family: 'Amarante', Tahoma, sans-serif;
+  font-family: 'Open Sans', Tahoma, sans-serif;
 
   font-size: 1.8em;
   line-height: 1.7em;
@@ -104,7 +115,8 @@ h3 {
   background: #c9dff0;
 }
 #keywords thead tr th {
-  font-weight: bold;
+  font-family:"Open Sans";
+  font-size:17px;
   padding: 12px 30px;
   padding-left: 42px;
 }
@@ -125,14 +137,12 @@ h3 {
   background-image: url('down-arrow.png');
 }
 
-p.mid{
-  font-family:"Helvetica";
-  font-size:21px;
-}
 #keywords tbody tr {
   color: #555;
 }
 #keywords tbody tr td {
+  font-family:"Open Sans";
+  font-size:14px;
   text-align: center;
   padding: 15px 10px;
 }
