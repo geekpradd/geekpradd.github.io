@@ -68,7 +68,6 @@ p.white{
 }
 p{
   font-family:"Source Sans Pro";
-  color:black;
 }
 .loading{
   background: url('/images/ajax-loader.gif') no-repeat scroll 50% 50% transparent;
