@@ -52,7 +52,14 @@ html,
 body {
   overflow-x: hidden;
 }
-
+.links a {
+  padding: 3px 10px;
+  font-size: 22px;
+}
+.links {
+  position: relative;
+  left: 100px;
+}
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
