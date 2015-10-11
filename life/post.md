@@ -20,7 +20,7 @@ So life was good. Examinations were unit test based and CCE was introduced that 
 
 I so wish now that I didn't do that.
 
-You see, the past has a odd habit of catching up to you when you least expect it. I guess Mother Nature repayed me a year almost 930 kms away. 
+You see, the past has a odd habit of catching up to you when you least expect it. I guess Mother Nature repaid me a year almost 930 kms away. 
 
 I'll come to that later. Actually, the thing is I don't remember much about my APSN life except the core details. I do remember reading a lot of car magazines and getting hooked to Digit magazine (a tech magazine which introduced me to the world of geekdom). I knew how to install Linux, format partitions, how hardware works, modding games, as well as how to overclock processors.
 
@@ -38,7 +38,7 @@ So, you say that I am lucky. Because of the fact that I can live in multiple pla
 
 My dad works at Indian Oil, Marketing Division. We were transferred to Dhanbad, the coal capital of India. Consult this wikipedia link to know more about my home for 4 years. [Dhanbad](https://en.wikipedia.org/wiki/Dhanbad)
 
-So I have vivid memories of hoping into that flight from Guwahati to Kolkatta and then the train to Dhanbad. Despite the fact that Dhanbad has the same population as that of Guwahati and is filled with Mineral resources, due to a well developed railway system and low demand, the airport there is for only large freight purposes.
+So I have vivid memories of hoping into that flight from Guwahati to Kolkata and then the train to Dhanbad. Despite the fact that Dhanbad has the same population as that of Guwahati and is filled with Mineral resources, due to a well developed railway system and low demand, the airport there is for only large freight purposes.
 
 I'll skip the details now. I reached Dhanbad, stayed in a Hotel for 2 weeks, settled in into a 2 bedroom flat (Later on we'll move to a larger 3 BHK one but currently due to my Dad's rank we were assigned a 2 BHK).
 
@@ -53,7 +53,7 @@ Welcome to [ DAV Public School, Koylanagar Dhanbad](https://en.wikipedia.org/wik
 I was in oblivion for an entire year. Unaware of the evil thoughts around me. 
 Welcome to Class 5.
 
-Wraping up quickly:
+Wrapping up quickly:
 In Class 5, I ironically had a class teacher who had been to Assam who so that wasn't a problem. Everybody else, though, made me feel like an alien. 
 
 Small Eyes + Straight Hair (it used to be very straight, like a porcupine) + fair complexion (4 years gave me a tanned look, but I was much more fairer than everyone else in the beginning) = Noticeable raised to the power infinity
@@ -75,7 +75,7 @@ That is one of the reason why I'm bad with girls.
 
 ##Losing Innocence
 
-Upto Class 6, I was an innocent kid. From Class 6 onwards, classmates started adulterating my mind. I realised the meanings of sex and everything else. It wasn't good exactly.
+Up to Class 6, I was an innocent kid. From Class 6 onwards, classmates started adulterating my mind. I realized the meanings of sex and everything else. It wasn't good exactly.
 
 Bullying continued. Managed to learn to ignore them. Couple of Class 7-8 seniors went more extreme and went physical. Managed not to provoke them further because these were the gangbangers. 
 
@@ -85,7 +85,7 @@ Some teachers were good, some were bad. Mostly bad. I knew more than almost all 
 
 Class 6 was spent gaming, and reading magazines.
 
-Girls were all in their primetime. Had boyfriends, spent time digressing guys. I ignored all of them maintaining only necessary contact. I once remember accidently bumping into a girl. They labelled me and called me rude things.
+Girls were all in their primetime. Had boyfriends, spent time digressing guys. I ignored all of them maintaining only necessary contact. I once remember accidentally bumping into a girl. They labeled me and called me rude things.
 
 I diverged further into geekdom as a result. My computer and books could only understand me.
 
@@ -94,7 +94,7 @@ Class 5, I was a new student. I went out of my seat to submit my FA2 Project. Th
 
 I didn't do anything.
 
-Class 7, wings were changed. New teachers. Nobody knew me and I felt even worse. All seniors used to look at my face as if I was an abomination. Teachers were worser than before and I didn't learn much that year. Nothing of the Social Science course went into my head and I got numbers by memorising. Science too was lackluster and my concepts weren't clear at all. Maths was better since I was natural at it and I could manage to solve parts of Class 8 NCERT by the end of Class 7.
+Class 7, wings were changed. New teachers. Nobody knew me and I felt even worse. All seniors used to look at my face as if I was an abomination. Teachers were worser than before and I didn't learn much that year. Nothing of the Social Science course went into my head and I got numbers by memorizing. Science too was lackluster and my concepts weren't clear at all. Maths was better since I was natural at it and I could manage to solve parts of Class 8 NCERT by the end of Class 7.
 
 ##Falling in love.. with binary and geekdom
 
@@ -103,9 +103,9 @@ It all started with Digit magazine and I owe the editors a lot. From programming
 
 I started programming with QBASIC and HTML. I could grasp it but I started serious coding only in Class 8.
 
-I watched a lot of hollywood movies, come class 8. My exact free time memories of class 7 are a bit vague but I do remember reading lots of articles and books. 
+I watched a lot of Hollywood movies, come class 8. My exact free time memories of class 7 are a bit vague but I do remember reading lots of articles and books. 
 
-I made some better friends. One of them was called Pranav. He was the only guy who I could relate with to a certain extent (around 30%). He watched Hollywood movies, was good at science and we had the same bus. But that's where the similarities end. He was around 5'10, had a good build and was dark. I was the exact opposite. But that didn't bother us and we became good friends [Please don't smirk and think of anything related to homosexaulity. The guy has a girlfriend now].
+I made some better friends. One of them was called Pranav. He was the only guy who I could relate with to a certain extent (around 30%). He watched Hollywood movies, was good at science and we had the same bus. But that's where the similarities end. He was around 5'10, had a good build and was dark. I was the exact opposite. But that didn't bother us and we became good friends [Please don't smirk and think of anything related to homosexuality. The guy has a girlfriend now].
 
 By class 8, I made some online friends on this site called Quora. Quora changed me completely.
 Before that, I used to think that I was very intelligent. I was wrong. Quora is a question answer site where you ask questions to get answers. You can read other people's questions and answers written by other people. I learnt a lot about life and became much more aware of the world.
@@ -118,15 +118,15 @@ I got obsessed with Vampire Diaries during class 8 but I still managed to study.
 
 ##Exploration and Acceptance 
 
-We travelled a lot during those 4 years. Different parts of India, different cultures. Bihar, UP, West Bengal, Jharkhand, Delhi, Rajasthan, I experienced all of them. Even though I did feel like I am being strictly observed in Bihar and UP, I still enjoyed the landscape and the monuments.
+We traveled a lot during those 4 years. Different parts of India, different cultures. Bihar, UP, West Bengal, Jharkhand, Delhi, Rajasthan, I experienced all of them. Even though I did feel like I am being strictly observed in Bihar and UP, I still enjoyed the landscape and the monuments.
 
 I explored the world on my computer. I used to read anything and everything on Wikipedia that I could find, whether it be celebrity trivia to UN Security Council to Nuclear Non Proliferation Treaty.
 
-The problem stemmed from the fact that nobody ever cared about what was stored in my brains. There were some quizzers led by our maths teacher but they used to be limited to India. And frankly, I didn't give a fuck about India and it's mightyness.
+The problem stemmed from the fact that nobody ever cared about what was stored in my brains. There were some quizzers led by our maths teacher but they used to be limited to India. And frankly, I didn't give a fuck about India and it's mightiness.
 
-I had to accept the fact that I was alone in this world. My parents couldn't understand me, still don't. Schoolmates were not upto my standards. I had to accept that I had nobody to share with, nobody to have fun with. You see, the guys that I was friends with, would never have the guts to bunk class, nor do antics that Mandeep does. Nor did they provide the oppurtunity to talk about things and people, like I do with you.
+I had to accept the fact that I was alone in this world. My parents couldn't understand me, still don't. Schoolmates were not upto my standards. I had to accept that I had nobody to share with, nobody to have fun with. You see, the guys that I was friends with, would never have the guts to bunk class, nor do antics that Mandeep does. Nor did they provide the opportunity to talk about things and people, like I do with you.
 
-So I became kind of a loner. And so to survive, I started to put on masks. Pretention as they say.
+So I became kind of a loner. And so to survive, I started to put on masks. Pretension as they say.
 I had to laugh at all those silly jokes about prostitutes, all those relationship drama between different people. I was degrading myself and was slowly losing control over myself.
 
 I couldn't figure out who I was. Was I the innocent kid from APSN or the geek who writes lots of code or the studious jerk in school who had no standards in order to survive?
@@ -171,16 +171,16 @@ Let's see how it goes (I don't think the girl part would apply; considering IITi
 [Read "==" as "exactly equals" (it's programming lingo)]
 
 And expectations from parents. This is insane. 
-My mom wants the best from me. She just doesn't realise how difficult it is.
+My mom wants the best from me. She just doesn't realize how difficult it is.
 
-I had my all india coaching test recently. I told you that I got All India Rank 17. I never told her the result. The PTM was before the SST exam, and she just said this point blank: "There are 16 students ahead of you". We had a fight the day before. My mom and dad were going to Radisson Blue. A party organised by The Telegraph sponsered by Indian Oil. I was studying Economics and I was checking some notes on my dad's phone. I forgot to charge it.
+I had my all india coaching test recently. I told you that I got All India Rank 17. I never told her the result. The PTM was before the SST exam, and she just said this point blank: "There are 16 students ahead of you". We had a fight the day before. My mom and dad were going to Radisson Blue. A party organized by The Telegraph sponsored by Indian Oil. I was studying Economics and I was checking some notes on my dad's phone. I forgot to charge it.
 
-She realised that there wasn't much charge left. She verbally lashed on me. My dad joined in to.
+She realized that there wasn't much charge left. She verbally lashed on me. My dad joined in to.
 They said that I live in a dream world, shouted a lot. I cried after they left. This was despite the fact that he had a portable charger that he could use to charge his phone with.
 
-I cried in the end in my coaching centre. It felt bad. I felt like a dissapoint them.
+I cried in the end in my coaching centre. It felt bad. I felt like a disappoint them.
 
-Have they even seen the course that I have to put up with? Class 9 already is huge considering SST + IITJEE stuff which I enjoy. So it's not possible to be perfect in everything. But I guess they'll never realise that.
+Have they even seen the course that I have to put up with? Class 9 already is huge considering SST + IITJEE stuff which I enjoy. So it's not possible to be perfect in everything. But I guess they'll never realize that.
 
 I don't trust my mom as such. She is very cunning and the fritzy type. Or atleast used to be.
 
@@ -218,7 +218,7 @@ Now the choice: try other schools which were nearby or go to DPS paying a bit mo
 
 It's difficult. I once appeared for admission test of DPS in Class 4. My parents chose APSN over DPS because of distance.
 
-But for once, I think, I am glad of chosing DPS.
+But for once, I think, I am glad of choosing DPS.
 
 The reason is that APSN is like DAV. Full of Bihari assholes. I didn't want that again in my life.
 Maria would have been good too but admission was closed and it would have been a hassle.
@@ -253,7 +253,7 @@ So yes, I didn't open up to you and other people. It just isn't easy speaking fr
 
 So first contact wasn't good. Still, I found Raghav, Jonah and Anurag to accompany me. 
 
-Pratyush and Akhoury became good friends later on, after Summer Vacation. I still am not on good terms with everyone. Jishnu for instance, acts like as if I'm his worst enemy. People of other sections, I don't know many and I guess that's how it'l remain. Not that I care or anything.
+Pratyush and Akhoury became good friends later on, after Summer Vacation. I still am not on good terms with everyone. Jishnu for instance, acts like as if I'm his worst enemy. People of other sections, I don't know many and I guess that's how it'll remain. Not that I care or anything.
 
 I felt like shit at the beginning. Everybody has friends. Everybody is happy. Everybody knows everyone. I had no friends. I still was adjusting to the culture and attitude here. You could joke with your teachers easily, teachers act humane, violence is rare. And I'm mostly like everybody else. Not some abomination.
 
