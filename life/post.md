@@ -2,7 +2,7 @@ To Neha,
 
 I'm not sure about what exactly I should write here. You wanted to know about the challenges that I face as a teenager. The problem is, if I start accounting each and every problem along with it's cause and reason it would be a very long letter. So I'll just write about some core problems that define me. That made me who I am right now.
 
-But let me clarify. What kind of a person am I? <br>
+But let me clarify. What kind of a person am I?
 As you already know. I consider myself to be a geek. A modern geek. I'm in love with literature and binary and I also am intellectual in the sense that I can hold my own in any discussion. And I am not *that bad* socially.
 
 From wikipedia,
@@ -14,9 +14,9 @@ So with that clear, let me start. And I will try to be completely honest in ever
 
 I consider myself to be an average guy till the age of 10. This was the year 2010 and it was this year that I was able to gain admission in Army Public School Narengi. Before that I was in Faculty and except taking mental maths classes (which I aced) in ALOHA and reading encyclopedias for fun, I was an average child.
 
-In the one year (2010-11) that I studied in APSN, I was able to form quite a network. I won competitions, ranging from Science Project to Debate to Quiz to Spell Bee. I made many friends, mostly belonging to Class 4 and Indian Oil.
+In the one year (2010-11) that I studied in APSN, I was able to form quite a network. I won competitions, ranging from Science Project to Debate to Quiz to Spell Bee. I made many friends, although I'm not in contact with any of them now.
 
-So life was good. Examinations were unit test based and CCE was introduced that year so no pressure on the studies side. I became friends with some friends, who used to bully an Army kid. I used to laugh at him and even mock the kid. They used to do a prank and they blamed it on him. Even though I never bullied the kid, I was a spectator and I didn't do anything to stop him. I even used to jeer at a guy who was muslim and went on our bus along with this other friend of mine (Shatadru Barua: A Bengali, what can you expect)
+So life was good. Examinations were unit test based and CCE was introduced that year so no pressure on the studies side. I became friends with some guys, who used to bully an Army kid. I used to laugh at him and even mock the kid. They used to do a prank and blame it on him. Even though I never bullied the kid, I was a spectator and I didn't do anything to stop him. I even used to jeer at a guy who was muslim and went on our bus along with this other friend of mine.
 
 I so wish now that I didn't do that.
 
@@ -30,7 +30,7 @@ But 4 years, did change me.
 ##Welcome to Hell
 
 If I ever write a biography of my life, this section should be the one most highlighted.
-Guess what? As you finish this letter, you will officially be the person who knows the most about my life. And that is why, I don't want this letter to be read by anyone else.
+Guess what? As you finish this letter, you will officially be the only person in the world who I know on a physical basis to know about this part (Another online friend helped me during the bullying phase). And that is why, I don't want this letter to be read by anyone else.
 
 I feel that I can trust you regarding this, plus I need to let everything out. Even if I did just write this on my computer and not share it with anyone, It just won't have the same meaning.
 
@@ -38,7 +38,7 @@ So, you say that I am lucky. Because of the fact that I can live in multiple pla
 
 My dad works at Indian Oil, Marketing Division. We were transferred to Dhanbad, the coal capital of India. Consult this wikipedia link to know more about my home for 4 years. [Dhanbad](https://en.wikipedia.org/wiki/Dhanbad)
 
-So I have vivid memories of hoping into that flight from Guwahati to Kolkata and then the train to Dhanbad. Despite the fact that Dhanbad has the same population as that of Guwahati and is filled with Mineral resources, due to a well developed railway system and low demand, the airport there is for only large freight purposes.
+So I have vivid memories of hopping into that flight from Guwahati to Kolkata and then the train to Dhanbad. Despite the fact that Dhanbad has the same population as that of Guwahati and is filled with Mineral resources, due to a well developed railway system and low demand, the airport there is for only large freight purposes.
 
 I'll skip the details now. I reached Dhanbad, stayed in a Hotel for 2 weeks, settled in into a 2 bedroom flat (Later on we'll move to a larger 3 BHK one but currently due to my Dad's rank we were assigned a 2 BHK).
 
@@ -51,7 +51,7 @@ Welcome to [ DAV Public School, Koylanagar Dhanbad](https://en.wikipedia.org/wik
 > Oblivion: the state of being unaware or unconscious of what is happening around one 
 
 I was in oblivion for an entire year. Unaware of the evil thoughts around me. 
-Welcome to Class 5.
+This was Class 5. I really was an oblivious fool back then. Oblivious of what people thought of me. Oblivious of my surroundings.
 
 Wrapping up quickly:
 In Class 5, I ironically had a class teacher who had been to Assam who so that wasn't a problem. Everybody else, though, made me feel like an alien. 
@@ -63,15 +63,17 @@ Some weren't that bad but would still make me feel different.
 
 I was bullied by couple of Class 6 idiots in the bus. One of them was called Siddharth. Let me tell you Neha, if you think Tushar is bad, You should meet this guy. You'd just vomit. No sense of hygiene, looks like some escaped convict, is very fat, and has no sense of how to talk to people.
 
-It's not even bihari hindi, it's something else. He is literally Tushar raised to the power infinity.
+It wasn't even bihari hindi, it's something else. He is literally Tushar raised to the power infinity.
 
-He bullied me. So did a couple of others. I learned to cope and didn't give much damn about it. Nicknames were developed. "Bora" and "Chinese" were the core ones. I used to sleep in the bus in the morning and these guys used to bother me a lot. A Class 5 guy used to wake me up and well, it wasn't pleasant.
+He bullied me. So did a couple of others. I learned to cope and didn't give much damn about it. Nicknames were developed. "Bora" and "Chinese" were the core ones. I used to sleep in the bus in the morning and these guys used to bother me a lot. A Class 5 guy used to wake me up and taunt me and well, it wasn't pleasant.
 
 Ironically, the same guy sent me a "Miss You" sticker on hike (it's like WhatsApp). We actually became friends in class 8. 
 
 Class 5 went by. I used to play on my building's terrace with some friends. There was this girl, who was the daughter of my dad's boss. I was instructed by my parents to be good with her and she and her mom were absolute bitches. They made my life hell. Her name is ["Dipabali Bandyopadhay"](https://www.facebook.com/dipabali.bandyopadhyay?fref=jewel). The link is to her facebook.
 
-That is one of the reason why I'm bad with girls.
+That is one of the reason why I'm bad with girls. She just ruined 2 years of my life. She was the complaining kind and whatever I did, or said, went to her mother, who complained to my mother. I once remember helping them out with their computer which had a resolution problem (My mother sent me). I just commented that the processor is kinda old for a new pc. And they thought I was bad mouthing their choice. Her mother scolded me, told my mother and the entire colony. 
+
+As I say, girls are something that I just can't handle.
 
 ##Losing Innocence
 
@@ -92,16 +94,18 @@ I diverged further into geekdom as a result. My computer and books could only un
 Oh, and one incident I should mention.
 Class 5, I was a new student. I went out of my seat to submit my FA2 Project. Then suddenly, the sports teacher comes in. He was drunk. Child Violence wasn't illegal in that school and he decided to hit me. Bam. 5 tight slaps and a punch on the back. I cried like hell that day. Later on he apologized and said that "Dekho, tum seat se bahar aaye the toh mujhe gussa aa gaya. Baat aage mat badhao aur kisi ko bolna zaruri nahi hai"
 
-I didn't do anything.
+I didn't do anything. That beating is something I'll never forget. 
+
+I've always had a low self esteem. Still do. The reason is, I felt like a freak. Like someone different. I used to be so conscious of how weird I look, compared to all of them. Bad physical shape doesn't help either. I guess I should put that behind me but it's difficult. As I result, my mind was always bothered about what other's think of me. It's not good when you feel like shit.
 
 Class 7, wings were changed. New teachers. Nobody knew me and I felt even worse. All seniors used to look at my face as if I was an abomination. Teachers were worser than before and I didn't learn much that year. Nothing of the Social Science course went into my head and I got numbers by memorizing. Science too was lackluster and my concepts weren't clear at all. Maths was better since I was natural at it and I could manage to solve parts of Class 8 NCERT by the end of Class 7.
 
 ##Falling in love.. with binary and geekdom
 
 I guess I should dedicate parts to how I became a geek.
-It all started with Digit magazine and I owe the editors a lot. From programming, to designing, to general tech knowledge, to drooling over cars, to feeling excited looking at games, the magazine had me covered.
+It all started with Digit magazine and I owe the editors of that magazine a lot. From programming, to designing, to general tech knowledge, to drooling over cars, to feeling excited looking at games, the magazine had me covered.
 
-I started programming with QBASIC and HTML. I could grasp it but I started serious coding only in Class 8.
+I started programming with QBASIC and HTML. I could grasp it but I started serious coding only in Class 8 learning Python, C++, Java, Haskell, PHP and working on many projects.
 
 I watched a lot of Hollywood movies, come class 8. My exact free time memories of class 7 are a bit vague but I do remember reading lots of articles and books. 
 
@@ -114,11 +118,11 @@ Here is the link to my profile [Pradipta Bora - Quora](https://www.quora.com/Pra
 
 I made online friends, worked on lots of programming projects. Made many websites and programs. You can check this link for my programming information (open source): [Pradipta Bora - geekpradd @github](http://github.com/geekpradd).
 
-I got obsessed with Vampire Diaries during class 8 but I still managed to study. I joined FIITJEE Dhanbad for coaching and learnt a lot of things.
+I got obsessed with Vampire Diaries and other TV Shows during class 8 but I still managed to study. I joined FIITJEE Dhanbad for coaching and learnt a lot of things and got addicted to Physics. Wikipedia + Khan Academy helped a lot too. 
 
 ##Exploration and Acceptance 
 
-We traveled a lot during those 4 years. Different parts of India, different cultures. Bihar, UP, West Bengal, Jharkhand, Delhi, Rajasthan, I experienced all of them. Even though I did feel like I am being strictly observed in Bihar and UP, I still enjoyed the landscape and the monuments.
+We traveled a lot during those 4 years. Different parts of India, different cultures. Bihar, UP, West Bengal, Jharkhand, Delhi, Rajasthan, I experienced all of them. Even though I did feel like I am being strictly observed in Bihar and UP, I still enjoyed the landscape and the ambiance.
 
 I explored the world on my computer. I used to read anything and everything on Wikipedia that I could find, whether it be celebrity trivia to UN Security Council to Nuclear Non Proliferation Treaty.
 
@@ -131,7 +135,7 @@ I had to laugh at all those silly jokes about prostitutes, all those relationshi
 
 I couldn't figure out who I was. Was I the innocent kid from APSN or the geek who writes lots of code or the studious jerk in school who had no standards in order to survive?
 
-I didn't know and I still don't. And for that I am glad. Glad that I could leave that place, make friends here. Be more like the cool modern geek that I am from inside. And I am glad that I could talk to you about random topics whether it be Indian society, to careers, to movies. 
+I didn't know and I still don't. And for that I am glad. Glad that I could leave that place, make friends here. Be more like the person that I am from the inside. And I am glad that I could talk to you about random topics whether it be Indian society, to careers, to movies. 
 
 As Batman says
 > It's not who you are underneath, it's what you do that defines you 
@@ -170,7 +174,7 @@ Every kid wants to have an awesome birthday. I never did. I promised myself last
 Let's see how it goes (I don't think the girl part would apply; considering IITians == Bachelors).
 [Read "==" as "exactly equals" (it's programming lingo)]
 
-And expectations from parents. This is insane. 
+And expectations from parents. That is just insane. 
 My mom wants the best from me. She just doesn't realize how difficult it is.
 
 I had my all india coaching test recently. I told you that I got All India Rank 17. I never told her the result. The PTM was before the SST exam, and she just said this point blank: "There are 16 students ahead of you". We had a fight the day before. My mom and dad were going to Radisson Blue. A party organized by The Telegraph sponsored by Indian Oil. I was studying Economics and I was checking some notes on my dad's phone. I forgot to charge it.
@@ -178,7 +182,7 @@ I had my all india coaching test recently. I told you that I got All India Rank 
 She realized that there wasn't much charge left. She verbally lashed on me. My dad joined in to.
 They said that I live in a dream world, shouted a lot. I cried after they left. This was despite the fact that he had a portable charger that he could use to charge his phone with.
 
-I cried in the end in my coaching centre. It felt bad. I felt like a disappoint them.
+I cried in the end in my coaching centre. It felt bad. I felt like I disappointed them.
 
 Have they even seen the course that I have to put up with? Class 9 already is huge considering SST + IITJEE stuff which I enjoy. So it's not possible to be perfect in everything. But I guess they'll never realize that.
 
@@ -187,6 +191,8 @@ I don't trust my mom as such. She is very cunning and the fritzy type. Or atleas
 That was about my parents. They'll never know what I love to do, what my passion is. My dad scolds me for using the computer, despite the fact that I have already studied. I cannot just keep on studying and studying can I?
 
 You got your books to read, I like reading science fiction and mystery. My mom mostly has romantic novels. I'm not interested in them. So I read on my phone. Which is also another problem.
+
+I also feel bad whenever I spend my parent's money. I mean, it's not like we are poor or anything. It's just that, I feel like I'm using someone else's money. He already spends so much on my education and study books. As a result, I don't buy other things even when he wants me to. I was scolded once for nothing going to shops for purchasing clothes. I wear a watch that is 3 years old and I cannot even fathom buying a 5000+ watch. I guess I just want to be financially independent.
 
 I just want to imagine what they would do if they had a son like Mandeep or Snehanghsu. I guess our parents can be similar in that sense: they have no idea what a tough kid is and how to handle one.
 
@@ -220,7 +226,7 @@ It's difficult. I once appeared for admission test of DPS in Class 4. My parents
 
 But for once, I think, I am glad of choosing DPS.
 
-The reason is that APSN is like DAV. Full of Bihari assholes. I didn't want that again in my life.
+The reason is that APSN is like DAV. Full of Bihari assholes. I didn't want that again in my life. Also, APSN doesn't have Sanskrit and I would have had to study Hindi instead. 
 Maria would have been good too but admission was closed and it would have been a hassle.
 
 So May comes and I walk through the doors of IX H.
@@ -233,7 +239,7 @@ I have been having nasty dreams these days. It is mostly about the trisection of
 
 You see, my life is complex. I have multiple personalities, multiple timelines, multiple aspirations.
 
-IITJEE is one of them. But you know what, I never really enjoyed my life. Yes, the feeling that you get when your cool code compiles is something else but enjoyment with friends, I never experienced that.
+IITJEE is one of them. And so is Computer Science. But you know what, I never really enjoyed my life. Yes, the feeling that you get when your cool code compiles is something else but enjoyment with friends, I never experienced that.
 
 That is until IX H.
 
@@ -241,7 +247,7 @@ What you are about to read now, is what I feel from the inside. I'm not really g
 
 So how do I feel currently?
 
-Well, firstly, I am thankful of the fact that I could make some friends. If I still had to site behind Jonah, I guess I couldn't have made friends. Atleast not with you, Mandeep or Mrinank. I'll be frank, I'm bad at making the first move for friendship.
+Well, firstly, I am thankful of the fact that I could make some friends. If I still had to sit behind Jonah, I guess I couldn't have made friends. Atleast not with you, Mandeep or Mrinank. I'll be frank, I'm bad at making the first move for friendship.
 
 You see the day I entered the class, Tushar and Shahir started playing with me. When Tushar realised that I am from DAV, he became more friendly and he and Jonah were the first people to talk to me. Raghav was rude at first, I remember that. More than rude in fact. I've put that behind me.
 
@@ -267,7 +273,7 @@ So core problems: Alienation, lack of friendship, parenting, pretension, bullyin
 
 I'm working on the above problems and things have improved I think coming here. Still am not satisfied with my life and happiness isn't there. I'm battling my subconscious in my dreams, handling my past and working for the future as well. 
 
-Thanks for reading, and thanks for being there. Thanks for listening to me, helping me cope. I hope you were not bored with my sadness and dilemma. I hope to read your letter as well. (I guess that's the main idea in the end, sharing information about each other). And, if you want you can write your opinion in the box below and your comment will be sent as an email to my email id.
+Thanks for reading. Thanks for listening to me, helping me cope. I hope you were not bored with my sadness and dilemma. I hope to read your letter as well. (I guess that's the main idea in the end, sharing information about each other). And, if you want you can write your opinion in the box below and your comment will be sent as an email to my email id.
 
 If you are wondering how I created this site, just some Javascript and HTML5. I won't go into details since you'd be bored.
 
