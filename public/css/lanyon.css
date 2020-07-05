@@ -74,7 +74,7 @@ p.white{
 p{
   font-family:"Source Sans Pro";
 }
-.loading{
+/*.loading{
   background: url('/images/ajax-loader.gif') no-repeat scroll 50% 50% transparent;
 height: 20px;
 width: 20px;
@@ -84,7 +84,7 @@ left:150px;
 z-index:32233232;
 position:fixed;
 display:none;
-}
+}*/
 /*
  * Wrapper
  *
@@ -192,10 +192,10 @@ position:relative;
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #D5D5D5;
 }
 .masthead-title a {
-  color: #505050;
+  color: #D5D5D5;
 }
 .masthead-title small {
   font-size: 80%;
@@ -397,7 +397,8 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #D5D5D5;
+  font-size: 60px;
 }
 .page-title,
 .post-title {

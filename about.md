@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  This is a Blog created by GeekPradd aka Pradipta Bora who is a Python, Web and Android Developer from India and loves coding and thinking
-</p>
 
 This Blog mainly caters to provide me a platform to think and communicate my thoughts with you. That aside, Articles which are common to many many of my services are also posted here.
 
