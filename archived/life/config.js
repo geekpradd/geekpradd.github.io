@@ -1,6 +1,6 @@
 var ip;
 var name;
-var first_names = ["pradd", "neha", "akshat"];
+var first_names = ["pradd", "neha"];
 function getDateTime() {
     var now     = new Date(); 
     var year    = now.getFullYear();
