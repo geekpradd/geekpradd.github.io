@@ -64,11 +64,9 @@ html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  color: #313131;
-  letter-spacing: -.025rem;
+h1,h2,h3,h4,h5,h6 {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 800;
 }
 p.white{
   color:rgba(255,255,255,0.9);
@@ -181,15 +179,15 @@ position:relative;
  *
  * Super small header above the content for site name and short description.
  */
-.content{
+/*.content{
   background-color:white !important;
-}
+}*/
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
-  background-color:white;
+  /*background-color:white;*/
 }
 .masthead-title {
   margin-top: 0;
