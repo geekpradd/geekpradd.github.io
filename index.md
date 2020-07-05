@@ -5,15 +5,12 @@ title: Home
 
 Welcome to my website. I am a sophomore at IIT Bombay pursuing an undergrad in Computer Science and Engineering.
 
-This Blog mainly caters to provide me a platform to think and communicate my thoughts with you. That aside, Articles which are common to many many of my services are also posted here.
+I am very passionate about computer science, mathematics and software engineering. I am currently pursuing my third semester at IIT Bombay.
 
-Now, I am mostly a Python and Web Developer with the occasional Android development (I hate *Java*!) and most of my projects are meant to solve real world problems. Some of them are [SourceSharer](http://www.sourcesharer.holes) which helps in sharing program code, [DynamicPython (Under Development)](http://www.dynamicpython.hol.es) which aims to simplify Python learning, [Notepad By Pradd]( http://geekpradd.github.io/Notepad-By-Pradd-/) which is a simple and concise Python based text editor. You can check out my [Profile](https://github.com/geekpradd/) on GitHub to get links to more of my Open Source Projects
+This site will contain links to my projects, reports and notes that I will be creating during my stay at IITB. I am currently exploring the field of quantum computing and reinforcement learning over the summers and I have worked on a lot of projects during this time that I will link below. I am also interested in algorithms and competitive programming (although not terribly good at it) and I spend my time on it as well. I've recently also developed a liking for the field of cybersecurity and participating in CTFs.
 
-## What I like
+I am currently a Convener at Web and Coding Club IIT Bombay and a Media Coordinator at Techfest IIT Bombay.
 
-Well, In my free non coding time, I like reading books, be it related to Theoterical Physics or Mystery novels. And I really like watching Movies and TV Shows with *The Originals* and *Breaking Bad* being my favorite. Besides that, I study a lot as I aspire to crack IIT JEE which is one of the toughest entrance exams in the world.
+Other than academics, I like to watch movies, series and anime. I like reading a lot (science-fiction short stories especially) and I spend a lot of time lurking on reddit. I also very intrigued by world politics and history and feel free to chat with me regarding these topics. I also write on Quora sometimes and hopefully on this site. Recently I've gotten into listening to a lot of japanese rock and I also hold indie rock close to my heart.
 
-## Contact Me
-
-You can reach out to me, and contact me on <a href="https://www.quora.com/Pradipta-Bora-1">Quora</a>,<a href="https://github.com/geekpradd"> GitHub </a>and by <a href="mailto:pradd@outlook.com">email</a>. I'm on Facebook and Twitter as well. I'll try my best to help you solve your problem!
-Thanks for reading and stay tuned for my articles!
+Feel free to contact me regarding any topic through my Github, LinkedIn, Reddit and Quora.
