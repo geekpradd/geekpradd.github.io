@@ -7,6 +7,7 @@ title: Tags
  {% assign tag_words = site_tags | split:',' | sort %}
 
 <div id="tags">
+  
     <ul class="tag-box inline">
     {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
