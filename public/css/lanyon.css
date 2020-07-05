@@ -136,12 +136,12 @@ position:relative;
     padding: 4px 6px;
     border-radius:4px;
     border:2px solid #eee;
-    color:black;
+    color: #fff;
 
 }
 .tag-box a:hover{
   text-decoration:none;
-  color:#268bd2;
+  color: #529cdb;
 }
 
 /*
@@ -185,7 +185,7 @@ position:relative;
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1.8rem;
   /*border-bottom: 1px solid #eee;*/
   /*background-color:white;*/
 }
