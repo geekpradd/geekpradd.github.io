@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction To Reverse Engineering
-permalink: intro-to-reverse
+permalink: intro-to-reverse-engineering
 redirect_from: "/2020/07/17/introduction-to-reverse-engineering/"
 tags:
 - ctf
