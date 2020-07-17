@@ -1,13 +1,5 @@
-# Geekpradd
 
-The Official GitHub Repo of the source of the Blog of Web Developer Pradipta
+This site was originally using the Lanyon Jekyll theme although I have modified it (adding push state url changing and different themes)
 
-
-## About
-
-This blog uses Jekyll powered by GitHub Pages which runs on Ruby on Rails. The Base Theme used is Lanyon and it has been extensively modified. Links are loaded using AJAX through pushState, RSS powered by Atom and Comments are powered by Disqus.
-
-
-Created By GeekPradd aka Pradipta Bora
-
+Last updated July 17 2020.
 
