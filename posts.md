@@ -1,6 +1,6 @@
 ---
-layout: Page
-title: Posts
+layout: page
+title: posts
 ---
 
 <div class="posts">
