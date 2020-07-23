@@ -10,8 +10,8 @@ permalink:           pretty
 title:               Pradipta Bora
 tagline:             
 description:         My personal website containing my blog, projects and reports
-url:                 http://geekpradd.github.io/
-baseurl:             http://geekpradd.github.io/
+url:                 https://geekpradd.github.io/
+baseurl:             https://geekpradd.github.io/
 # baseurl:             /
 paginate:            5
 paginate_path:       "/blog/page:num/"
