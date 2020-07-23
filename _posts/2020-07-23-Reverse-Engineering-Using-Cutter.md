@@ -25,7 +25,7 @@ Once this is done you can simply download the cutter appimage from [here](https:
 
 The appimage file can simply be doubleclicked to run cutter. You will have to set it up as an allowed executable though. You can do this by simplying running the following command:
 
-{% highlight %}
+{% highlight assembly %}
 chmod +x Cutter-v1.10.3-x64.Linux.AppImage
 {% endhighlight %}
 
@@ -46,7 +46,7 @@ So a particular key is generated from this text. We need to figure out the corre
 Open cutter and load this file. Keep on clicking okay we want to use the default settings. You end up here:
 
 
-![](/images/cutter.png)
+![](/images/cut.png)
 
 Firstly let's enable the decompiler. Go to Windows on the menu bar and click on Decompiler. You should see Decompiler now on the bottom. It will load the decompiled code for `entry0`. We want to however investigate the `main` function so doubleclick on `main` in the left side.
 
@@ -82,6 +82,6 @@ f.close()
 
 Now if we pass this key to the program we see the following output:
 
-![](/images/solved.png)
+![](/images/fin.png)
 
 That sums up this crackme. This was a pretty simple example which was made extremely simple using a decompiler. This tool is very useful for complex ctf problems where having a code to go back to while at the same time looking at the assembly can be useful. 

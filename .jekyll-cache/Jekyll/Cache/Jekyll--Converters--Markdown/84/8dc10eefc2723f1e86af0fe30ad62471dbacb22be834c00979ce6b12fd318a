@@ -1,0 +1,69 @@
+I"�<p>In the last tutorial we investigated using assembly for reverse engineering by using IDA to observe the assembly code of the executable. Understanding assembly is incredibly useful and allows one to understand how the internals of the program are working. However sometimes figuring and reversing the logic of the program using just assembly becomes extremely difficuly especially if the program is complicated.</p>
+
+<p>Fortunately a different class of programs known as decompilers allow us to essentially get the pseudocode from the assembly generated and use this to reverse the program. Ofcourse this code won’t be perfect and in most cases it won’t run. But analysing this pseudocode is far easier than working with assembly and we will be seeing how we can use this to solve problems.</p>
+
+<p>We will be using the ghidra decompiler written by the National Security Agency (it is opensourced so you don’t have to worry about security risks). ghidra is a complete reversing toolkit which is very powerful however it can be a bit non friendly to use. Instead we will use cutter which is based on the radare2 platform and uses ghidra for decompilation.</p>
+
+<h3 id="installing-cutter">Installing Cutter</h3>
+
+<p>You’ll first have to install radare2 which provides a lot of tools for disassembly and reversing via the terminal.</p>
+
+<p>Follow this <a href="https://radare.mikelloc.com/list">link</a> to get the binary installer for your platform.</p>
+
+<p>Once this is done you can simply download the cutter appimage from <a href="https://cutter.re/">here</a></p>
+
+<p>The appimage file can simply be doubleclicked to run cutter. You will have to set it up as an allowed executable though. You can do this by simplying running the following command:</p>
+
+<figure class="highlight"><pre><code class="language-assembly" data-lang="assembly">chmod +x Cutter-v1.10.3-x64.Linux.AppImage</code></pre></figure>
+
+<p>Now double click the appimage to run Cutter.</p>
+
+<h3 id="solving-a-crackme-using-cutter-and-ghidra">Solving a crackme using Cutter and Ghidra</h3>
+
+<p>We will demonstrate how to use cutter using this <a href="https://crackmes.one/crackme/5ed17e1633c5d449d91ae68e">crackme</a>.</p>
+
+<p>Crackmes.one has a lot of files that you need to crack and this is a relatively simple one. It’s called ZED-Frequency. Let’s try running it (remember you may need to <code>chmod+x</code> so that this executable can be run.):</p>
+
+<p><img src="/images/run.png" alt="" /></p>
+
+<p>It seemst that you need to pass a keyfile. Let us create a simple file with the text “CSEAIITB” and pass it as a keyfile.</p>
+
+<p>So a particular key is generated from this text. We need to figure out the correct key and what generates this key. This is the challenge. Let’s load this file in cutter.</p>
+
+<p>Open cutter and load this file. Keep on clicking okay we want to use the default settings. You end up here:</p>
+
+<p><img src="/images/cut.png" alt="" /></p>
+
+<p>Firstly let’s enable the decompiler. Go to Windows on the menu bar and click on Decompiler. You should see Decompiler now on the bottom. It will load the decompiled code for <code>entry0</code>. We want to however investigate the <code>main</code> function so doubleclick on <code>main</code> in the left side.</p>
+
+<p>This is the code that ghidra gave to us. It may seem complicated but let’s analyse it. Firstly observe that there is a lot of hex codes flying around. Those are simply the memory locations (think pointer values) being passed on. If you click on strings in the bottom you’ll find what values these pointers are pointing to.</p>
+
+<p>Anyway if you observe it seems that <code>uVar2</code> is storing the file data from the command line <code>argv</code>. Also at the end you will see that if <code>iVar1==0</code> (which occurs when <code>s1</code> is equal to the string at <code>0xb16</code>) something happens. Let’s go to strings and see.</p>
+
+<p>So if <code>s1</code> is equal to 01234567890123456789012345 we succeed. This is the key.</p>
+
+<p>How do we get this though? If you look at the source you’ll see that <code>s1</code> basically is the string form of the data in the array <code>a1Stack168</code> where the indexing happens from <code>0</code> to <code>26</code>.</p>
+
+<p>How is this array getting these values? Observe the main while loop. It seems that the values get updated by considering every character in the input file and updating some value. The <code>0x41</code> value appears a lot which is the ASCII for <code>A</code>.</p>
+
+<p>I will leave it to you to see that well this coding is doing nothing but counting the number of occurences of every character from <code>A</code> to <code>Z</code>. So a <code>0</code> in the key at the first position means there is no <code>A</code> and so on.</p>
+
+<p>We can then easily generate the key!</p>
+
+<p>The following python code generates the key:</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python">f = open(&quot;key.txt&quot;, &quot;w&quot;)
+final_key = &quot;&quot;
+
+for _ in range(26):
+	final_key += chr(65+_)*(_%10)
+
+f.write(final_key)
+f.close()</code></pre></figure>
+
+<p>Now if we pass this key to the program we see the following output:</p>
+
+<p><img src="/images/fin.png" alt="" /></p>
+
+<p>That sums up this crackme. This was a pretty simple example which was made extremely simple using a decompiler. This tool is very useful for complex ctf problems where having a code to go back to while at the same time looking at the assembly can be useful.</p>
+:ET
