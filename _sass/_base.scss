@@ -37,7 +37,9 @@ a, table.table a {
 
 
 // Profile
-
+body {
+  font-family: Lato,Helvetica,Arial,sans-serif;
+}
 .profile {
   margin-left: 1rem;
   width: 100%;
@@ -279,7 +281,6 @@ footer.sticky-bottom {
 
 .projects {
   .grid-item {
-    width: 250px;
     margin-bottom: 10px;
     a {
       color: black;

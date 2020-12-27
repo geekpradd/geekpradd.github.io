@@ -1,24 +1,20 @@
 <div class="news">
-  <h2>news</h2>
+  <h2>Recent Blog Posts</h2>
   {% if site.news  %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-      {% assign news = site.news | reverse %}
-      {% for item in news limit: site.news_limit %}
+      {% assign posts = site.posts | reverse %}
+      {% for post in posts limit: 3%}
         <tr>
-          <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+          <th scope="row">{{ post.date | date: "%b %-d, %Y" }}</th>
           <td>
-            {% if item.inline %}
-              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-            {% else %}
-              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-            {% endif %}
+            <a class="news-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </td>
         </tr>
       {% endfor %}
       </table>
     </div>
   {% else %}
-    <p>No news so far...</p>
+    <p>No posts so far...</p>
   {% endif %}
 </div>

@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have helped teach the following courses as a teaching assistant in IIT Bombay:
+1. MA109 (Calculus): Fall 2020
+2. CS213(M) (Data Structures and Algorithms): Spring 2021
 
-Organize your courses by years, topics, or universities, however you like!
+I will soon be adding webpages for each course where all the material that I have created for the courses will be uploaded.

@@ -2,23 +2,26 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: A curious soul striving to make a difference!
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> Address: </p> 
+    <p> Hostel 2, IIT Bombay </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hello there! 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Pradipta Bora, a second year undergrad at the [Department Of Computer Science and Engineering](https://cse.iitb.ac.in) at the Indian Institute Of Technology Bombay. I am fascinated and interested in almost all fields of computer science and currently I am exploring the fields of algorithms, image processing and deep learning. I have experience in software development, machine learning, competitive programming and algorithmic trading.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently associated with the Computational Geometry group at the Department of Computer Science at TU Braunschweig where I will be interning under Professor [Sandor Fekete](https://www.ibr.cs.tu-bs.de/users/fekete/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also a Teaching Assistant for the courses MA109 and CS213(M) at IIT Bombay. You can access the resources that I have created for the courses I am helping teach to learn more about them [here]({{ '/teaching' | relative_url }}).
+
+Feel free to contact me and do go through the website to know more about my [projects](/projects) and do read my blog posts. I have authored a few articles related to Reverse Engineering for the Cybersecurity club of the CSE Department that you can access on this site [on this link]({{ '/blog/' | relative_url }} ). You can also check out by Curriculum Vitae [here]({{ '/cv.pdf' | relative_url }}).
+
