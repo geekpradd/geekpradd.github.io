@@ -4,7 +4,7 @@
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       {% assign posts = site.posts | reverse %}
-      {% for post in posts limit: 3%}
+      {% for post in posts limit: 10%}
         <tr>
           <th scope="row">{{ post.date | date: "%b %-d, %Y" }}</th>
           <td>
